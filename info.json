@@ -1,0 +1,10 @@
+{
+  "name": "yi_locales_ja",
+  "version": "0.1.0",
+  "factorio_version": "1.1",
+  "title": "Yuoki Locales for ja",
+  "author": "portown",
+  "homepage": "",
+  "dependencies": ["base", "Yuoki >= 1.1.02", "? Yi_Tech_Tree >= 1.1.0"],
+  "description": "Japanese translation of Yuoki Mod."
+}
