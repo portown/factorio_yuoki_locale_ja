@@ -5,6 +5,6 @@
   "title": "Yuoki Locales for ja",
   "author": "portown",
   "homepage": "",
-  "dependencies": ["base", "Yuoki >= 1.1.02", "? Yi_Tech_Tree >= 1.1.0"],
+  "dependencies": ["base", "Yuoki >= 1.1.02", "? yi_engines >= 1.1.01", "? Yi_Tech_Tree >= 1.1.0"],
   "description": "Japanese translation of Yuoki Mod."
 }
